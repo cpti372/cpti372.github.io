@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: 10 things you can do with an Internet 
 featured-img: sleek
 ---
 
