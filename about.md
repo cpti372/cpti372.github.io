@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Graduate from Hanyang University in 2021, majoring in Computer Science. During undergraduate studies, participated in projects about reporting smart city and sustainability of city from disaster and epidemic. While having an internship with Shanghai Jiao Tong University, focused on smart city planning and wrote a report about the sustainability of city, comparing European smart cities with Asian cities.
 
 You can find the source code for the Jekyll new theme at:
 [sleek](https://github.com/janczizikow/sleek)
