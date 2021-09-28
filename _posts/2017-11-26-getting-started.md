@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 things we can do without an Internet
+title: 10 quetions for GBJ candidate with Coline 
 featured-img: sleek
 ---
 
