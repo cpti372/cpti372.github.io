@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maria Vula "From Fiji to China"
+title: Bula Maria Vula, "From Fiji to China"
 featured-img: shane-rounce-205187
 ---
 
@@ -49,7 +49,7 @@ When I ask her to define GBJ as one word, without hestiation, she said "excellen
 ### Her career goal 
 
 <Blockquote>
-> I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance.
+I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance.
 </Blockquote>
 
 
