@@ -4,7 +4,12 @@ title: Maria Vula "From Fiji to China"
 featured-img: shane-rounce-205187
 ---
 
+Maria, 2021 cohort of GBJ, is from Fiji Islands. She is the business editor working at [Fiji Sun](https://fijisun.com.fj/) based in Suva,Fiji. 
+In this interview, while communicating with her, I can come closer to her 
+
+
 ## Global, Business, Journalism 
+
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
