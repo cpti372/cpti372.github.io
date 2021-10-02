@@ -35,12 +35,13 @@ As a business journalist, she covers business from the stock market, commodity p
 
 During President Xi Jinping’s visit to Fiji in November 2014, he had announced the establishment of a Chinese Culture Center in the country, which stands tall now seven years later. Chinese Ambassador of Fiji, Qian Bo, said the China Cultural Center in Fiji had done much to strengthen China-Fiji relations, which became a testament to her. In 2017, she learned basic Mandarin at the China Cultural Centre in Suva.
 
-<p align="center"><a href="http://images.china.cn/attachement/jpg/site1007/20150716/001aa0ba3c161711532504.jpg"><img src="http://images.china.cn/attachement/jpg/site1007/20150716/001aa0ba3c161711532504.jpg" type="image"></img></a></p>
+<p align="center"><a href="https://image.freepik.com/free-photo/beautiful-national-state-flags-fiji-china-together-sky-3d-artwork-concept_337817-585.jpg"><img src="https://image.freepik.com/free-photo/beautiful-national-state-flags-fiji-china-together-sky-3d-artwork-concept_337817-585.jpg" type="image"></a></p>
 
 She participated in the culture education Tour in China as one of the two representatives from the China Cultural Center. After visiting, she thought that learning the Chinese language and paying attention to China’s economy and culture is needed.  
 
 
 ### Why Tsinghua 
+
 <p align="center"><a href="https://www.tsinghua.edu.cn/en/image/xinjiatihuanjjide02.jpg"><img src="https://www.tsinghua.edu.cn/en/image/xinjiatihuanjjide02.jpg" type="image"></a></p>
 
 Her main reason for obtaining a master's degree in Global Business Journalism is its unique teaching technique with a combination of journalism and business with global students.
