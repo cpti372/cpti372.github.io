@@ -15,35 +15,32 @@ Global, Busiess, Journalism stands out the Maria's identity. After undergraduate
 
 ### Global 
 
-During President Xi Jinping’s visit to Fiji in November 2014, he had announced the establishment of a Chinese Culture Center in the country, which stands tall now seven years later.
-
-Chinese Ambassador to Fiji, Qian Bo, said the China Cultural Center in Fiji had done much to strengthen China-Fiji relations of which I am a testament of. In 2017, I learned basic Mandarin at the China Cultural Centre in Suva.
-
-I was invited later the same year to attend the Cultural Tour in China as one of the two representatives selected from our Chinese Class at the China Cultural Centre.
-It was an educational tour. It made me realise that I should learn the Chinese language and culture more. And also learn more on China’s economy.
+The Fiji Sun is the biggest daily newspaper in the Pacific Islands, in a region where print editions of newspapers are still widely read. Her team produces a minimum of four pages daily in our print edition, a 16-page Saturday Business Liftout and daily digital reportage on various platforms. They carry Xinhua news agecny for international news and also have connections with China Daily. 
 
 ### Business
 
-In my section we cover business from the stock market, commodity prices, aviation, agriculture, tourism, and overall locally and international news that impact Fiji, Fijians and the economy.
-
-I am currently, responsible for overall in charge of developing and running the most extensive business and finance reporting in the Pacific Islands. The Fiji Sun is the biggest daily newspaper in the Pacific Islands, in a region where print editions of newspapers are still widely read. 
-
-My team produces a minimum of four pages daily in our print edition, a 16-page Saturday Business Liftout and daily digital reportage on our various platforms.
-We carry Xinhua for international news and also have links with China Daily. 
+As a journalist, she covers business from the stock market, commodity prices, aviation, agriculture, tourism, and overall locally and international news that impact Fiji, Fijians and the economy. She is currently responsible for overall in charge of developing and running the most extensive business and finance reporting in the Pacific Islands.  
 
 ### Journalism 
 
- In mid 2014, I had a stint as Acting Editor North making an impact there.This would be the beginning of my leadership role. Upon return to the Suva headquarters saw me taking charge of the engine room – the subeditor’s desk/department.
-
-I also looked after a special project in 2017 where the Fiji Sun produced the biggest weekend newspaper boasting up to more than 200 pages. I then moved to head the business department where she is managing – seven-days-a-week (even on her days off) a dedicated team of four.
+ In mid 2014, she had a stint as Acting Editor North making an impact there. This would be the beginning of her leadership role. Upon return to the Suva headquarters saw her taking charge of the engine room – the subeditor’s desk/department. She also looked after a special project in 2017 where the Fiji Sun produced the biggest weekend newspaper boasting up to more than 200 pages. Then she moved to head the business department where she is managing – seven-days-a-week (even on her days off) a dedicated team of four.
 
 
 ## Tsinghua, new start 
 
+### Why China
+
+During President Xi Jinping’s visit to Fiji in November 2014, he had announced the establishment of a Chinese Culture Center in the country, which stands tall now seven years later. Chinese Ambassador to Fiji, Qian Bo, said the China Cultural Center in Fiji had done much to strengthen China-Fiji relations of which she was a testament of. In 2017, she learned basic Mandarin at the China Cultural Centre in Suva.
+
+<p align="center"><a href="http://images.china.cn/attachement/jpg/site1007/20150716/001aa0ba3c161711532504.jpg"><img src="http://images.china.cn/attachement/jpg/site1007/20150716/001aa0ba3c161711532504.jpg" type="image"></a></p>
+
+As well she was invited later the same year to attend the Cultural Tour in China as one of the two representatives selected from our Chinese Class at the China Cultural Centre. It was an educational tour. It made her realise that she should learn the Chinese language and culture more. And also learn more on China’s economy.
+
+
 ### Why Tsinghua 
+<p align="center"><a href="https://www.tsinghua.edu.cn/en/image/xinjiatihuanjjide02.jpg"><img src="https://www.tsinghua.edu.cn/en/image/xinjiatihuanjjide02.jpg" type="image"></a></p>
 
-My main focus for choosing to obtain a Master of Arts in Global Business Journalism through the Program at Tsinghua University is because of its unique teaching technique of a combination of journalism and business with a global focus. I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance.
-
+Her main focus for choosing to obtain a Master of Arts in Global Business Journalism through the Program at Tsinghua University is because of its unique teaching technique of a combination of journalism and business with a global focus. She would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance.
 
 ### Excellence 
 
@@ -51,8 +48,9 @@ When I ask her to define GBJ as one word, without hestiation, she said "excellen
 
 ### Her career goal 
 
-```
+<Blockquote>
 I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance.
-```
+</Blockquote>
+
 
 
