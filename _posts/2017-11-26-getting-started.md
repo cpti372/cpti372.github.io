@@ -5,11 +5,13 @@ featured-img: shane-rounce-205187
 ---
 
 Maria, 2021 cohort of GBJ, is from Fiji Islands. She is the business editor working at [Fiji Sun](https://fijisun.com.fj/) based in Suva,Fiji. 
-In this interview, while communicating with her, I can come closer to her 
+In this interview, while communicating with her, I can get much closer to her 
 
 ![Maria](https://drive.google.com/file/d/1wZ6xqddqgr0MOkyVa8m9bJ0M6oZt6WM4/view?usp=sharing)
 
 ## Global, Business, Journalism 
+
+Global, Busiess, Journalism stands out the Maria's identity. After undergraduates, she started her work as a journalist. After few years, she rose to managing Editor Business and achieved multiple successes as well. 
 
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
