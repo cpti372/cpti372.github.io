@@ -7,8 +7,6 @@ featured-img: shane-rounce-205187
 Maria, 2021 cohort of GBJ, is from Fiji Islands. She is the business editor working at [Fiji Sun](https://fijisun.com.fj/) based in Suva,Fiji. 
 In this interview, while communicating with her, I can get much closer to her 
 
-![Maria](https://www.linkpicture.com/q/스크린샷-2021-10-02-오후-6.26.47.png)
-
 <p align="center"><a href="https://www.linkpicture.com/view.php?img=LPic615837697d1681691808356"><img src="https://www.linkpicture.com/q/스크린샷-2021-10-02-오후-6.26.47.png" type="image"></a></p>
 
 ## Global, Business, Journalism 
@@ -40,66 +38,21 @@ We carry Xinhua for international news and also have links with China Daily.
 I also looked after a special project in 2017 where the Fiji Sun produced the biggest weekend newspaper boasting up to more than 200 pages. I then moved to head the business department where she is managing – seven-days-a-week (even on her days off) a dedicated team of four.
 
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published in the webpage instantly.
+## Tsinghua, new start 
 
-1. Just download the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project.
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+### Why Tsinghua 
 
-## Writing content
+My main focus for choosing to obtain a Master of Arts in Global Business Journalism through the Program at Tsinghua University is because of its unique teaching technique of a combination of journalism and business with a global focus. I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance.
 
-### Docs
-
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
-
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
-
-```
----
-title: My Page
-permalink: /docs/my-page/
----
-
-Hello World!
-```
-
-**2.** Add the pagename to `_pages/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
 
 ### Excellence 
 
-When I ask her to define GBJ as one word, without hestiation, she said "excellence" 
+When I ask her to define GBJ as one word, without hestiation, she said "excellence". Obtaining a Master of Arts in Global Journalism will enable her with her long-term goals to build the business team and widen the business coverage not only in Fiji but the Pacific region as well. Furthermore, she would also like to continue to train journalists to broaden their knowledge and inform the public. This would benefit both Fiji and the Pacific Islands region.
 
-### Images TODO
+### Her career goal 
 
-Introduce gulp optimization
-
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Thumb | 535px | 1070px
-sm |Post Thumb | 500px| 1000px
-md |Post Thumb | 329.375px | 658.75px
-lg |Post Thumb | 445.625px | 891.25px
-xl |Post Thumb | 353.125px | 706.25px
+```
+I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance.
+```
 
 
-Breakpoint | Image Type | Width | Retina
------------- | ------------ | ------------- | -------------
-xs |Post Hero | 535px | 1070px
-sm |Post Hero | 500px| 1000px
-md |Post Hero | 329.375px | 658.75px
-lg |Post Hero | 445.625px | 891.25px
-xl |Post Hero | 353.125px | 706.25px
-
-Happy hacking!
