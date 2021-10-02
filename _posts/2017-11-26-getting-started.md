@@ -4,7 +4,7 @@ title: 10 quetions for GBJ candidate with Coline
 featured-img: sleek
 ---
 
-## From Piji to China 
+## From Fiji to China 
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
