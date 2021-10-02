@@ -19,11 +19,11 @@ The Fiji Sun is the biggest daily newspaper in the Pacific Islands, where print 
 
 ### Business
 
-As a business journalist, she covers business from the stock market, commodity prices, aviation, agriculture, tourism, and overall locally and international news that impact Fiji, Fijians and the economy. She is currently responsible for overall in charge of developing and running the most extensive business and finance reporting in the Pacific Islands.  
+As a business journalist, she covers business from the stock market, commodity prices, aviation, agriculture, tourism, and overall locally and international news that impact Fiji. She is currently responsible for developing and running the most extensive business and finance reporting in the Pacific Islands.  
 
 ### Journalism 
 
- In mid 2014, she had a stint as Acting Editor North making an impact there. This would be the beginning of her leadership role. Upon return to the Suva headquarters saw her taking charge of the engine room – the subeditor’s desk/department. She also looked after a special project in 2017 where the Fiji Sun produced the biggest weekend newspaper boasting up to more than 200 pages. Then she moved to head the business department where she is managing – seven-days-a-week (even on her days off) a dedicated team of four.
+ In mid 2014, she had a stint as Acting Editor North making an impact there. This would be the beginning of her leadership role. Upon return to the Suva headquarters saw her taking charge of the engine room – the subeditor’s desk/department. She also conducted a special project in 2017 where the Fiji Sun produced the biggest weekend newspaper boasting up to more than 200 pages. Then she moved to head the business department where she is managing – seven-days-a-week (even on her days off) a dedicated team of four.
 
 
 ## Tsinghua, new start 
@@ -34,7 +34,7 @@ During President Xi Jinping’s visit to Fiji in November 2014, he had announced
 
 <p align="center"><a href="http://images.china.cn/attachement/jpg/site1007/20150716/001aa0ba3c161711532504.jpg"><img src="http://images.china.cn/attachement/jpg/site1007/20150716/001aa0ba3c161711532504.jpg" type="image"></a></p>
 
-She participated in the culture education Tour in China as one of the two representatives from the China Cultural Center. It was an educational tour. It made her realize that she should learn the Chinese language and pay attention to China’s economy and culture more and more. 
+She participated in the culture education Tour in China as one of the two representatives from the China Cultural Center. After visiting, she thought that learning the Chinese language and paying attention to China’s economy and culture is needed.  
 
 
 ### Why Tsinghua 
@@ -50,6 +50,7 @@ When asked to define GBJ as one word, without hesitation, she said "excellence."
 
 <Blockquote>
 " I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance." 
+ - Maira Vula (2021 cohort of GBJ)
 </Blockquote>
 
 
