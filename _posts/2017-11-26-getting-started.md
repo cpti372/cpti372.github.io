@@ -6,12 +6,12 @@ featured-img: shane-rounce-205187
 # Bula!
 
 <text align="center" >Bula is the most common word in Fijian language</text>
-<p align="center" width="300" height="300"><a href="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg"><img src="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg" type="image"></a></p>
+<p align="center" width="200" height="200"><a href="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg"><img src="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg" type="image"></a></p>
 
 Maria, 2021 cohort of GBJ, is from Fiji Islands. She is the business editor working at [Fiji Sun](https://fijisun.com.fj/) based in Suva,Fiji. 
 Through this interview, I can get much closer to her. The interview below will be the guide about who is she. 
 
-<p align="center" width="300" height="300"><a href="https://www.linkpicture.com/view.php?img=LPic615837697d1681691808356"><img src="https://www.linkpicture.com/q/스크린샷-2021-10-02-오후-6.26.47.png" type="image"></a></p>
+<p align="center" height="300"><a href="https://www.linkpicture.com/view.php?img=LPic615837697d1681691808356"><img src="https://www.linkpicture.com/q/스크린샷-2021-10-02-오후-6.26.47.png" type="image"></a></p>
 
 ## Global, Business, Journalism 
 
