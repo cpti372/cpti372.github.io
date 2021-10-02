@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maria Vula : From Fiji to China 
+title: Maria Vula "From Fiji to China"
 featured-img: sleek
 ---
 
