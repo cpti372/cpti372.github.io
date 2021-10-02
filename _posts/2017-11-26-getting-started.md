@@ -9,6 +9,8 @@ In this interview, while communicating with her, I can get much closer to her
 
 ![Maria](https://www.linkpicture.com/q/스크린샷-2021-10-02-오후-6.26.47.png)
 
+<p align="center"><a href="https://www.linkpicture.com/view.php?img=LPic615837697d1681691808356"><img src="https://www.linkpicture.com/q/스크린샷-2021-10-02-오후-6.26.47.png" type="image"></a></p>
+
 ## Global, Business, Journalism 
 
 Global, Busiess, Journalism stands out the Maria's identity. After undergraduates, she started her work as a journalist. After few years, she rose to managing Editor Business and achieved multiple successes as well. 
