@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maria Vula "From Fiji to China"
-featured-img: sleek
+featured-img: shane-rounce-205187
 ---
 
 ## Global, Business, Journalism 
