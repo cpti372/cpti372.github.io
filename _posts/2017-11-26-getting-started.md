@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Bula Maria Vula, "From Fiji to China"
+title: Bula! Maria
+"From Fiji to China"
 featured-img: shane-rounce-205187
 ---
 # Bula!
