@@ -8,6 +8,7 @@ Yeonsu Kim graduated from Hanyang University, majoring in Computer Science. She 
 Experiences in her academic and professional journey have primarily focused on communication, technology, and social issues, which drives her to explore the importance of communication in every field.  
 
 <img src = "https://www.instagram.com/p/CNH6gSMDlVt/" width ="200" /> <img src = "https://www.instagram.com/p/Bzz16DyAIQL/" width ="200" />
+[(Coline)](https://www.instagram.com/p/CNH6gSMDlVt/)
 
 Study-abroad experiences in Shanghai and Amsterdam in 2019 and 2020 bolstered her interest in covering social and technical issues. As a freelance reporter, she has mainly covered the smart city and digital divide. Selected to serve on the committee for research in Amsterdam, she taught the importance of using media to draw people closer together around technology when addressing social impact issues. In addition, cooperation with Amsterdam Economic Board enabled her to comprehend how different Korea and Europe’s city planning models are. 
 
