@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 10 quetions for GBJ candidate with Coline 
+title: Maria Vula : From Fiji to China 
 featured-img: sleek
 ---
 
-## From Fiji to China 
+## Global, Business, Journalism 
 
 [GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
@@ -43,11 +43,9 @@ Hello World!
 
 Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
 
-### Pages
+### Excellence 
 
-The home page is located under `index.md` file. You can change the content or design completely different welcome page for your taste.
-
-In order to add a new page, create a new html or markdown file under root directory and link it in `_includes/header.html`.
+When I ask her to define GBJ as one word, without hestiation, she said "excellence" 
 
 ### Images TODO
 
