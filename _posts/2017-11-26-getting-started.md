@@ -5,7 +5,7 @@ featured-img: shane-rounce-205187
 ---
 # Bula!
 
-Bula is the most common word in the Fijian language. It is the same as “Hello” in English.
+<b>Bula</b> is the most common word in the Fijian language. It is the same as “Hello” in English.
 <p align="center" width="200" height="200"><a href="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg"><img src="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg" type="image"></a></p>
 
 Today, I am going to introduce one of my colleagues from Fiji islands. Maria, the 2021 cohort of GBJ, is from Fiji Islands. She is the business editor working at [Fiji Sun](https://fijisun.com.fj/) based in Suva, Fiji. 
@@ -16,11 +16,11 @@ Through this interview, I can get much closer to her, and I hope the discussion 
 
 ## Global, Business, Journalism 
 
-Global, Business, Journalism stands out Maria’s identity. After her undergraduates, she started her work as a journalist. Few years later, she promoted to manage the editor Business and achieved multiple successes as well. 
+<b>Global, Business, Journalism</b> stands out Maria’s identity. After her undergraduates, she started her work as a journalist. Few years later, she promoted to manage the editor Business and achieved multiple successes as well. 
 
 ### Global 
 
-The Fiji Sun is the biggest daily newspaper in the Pacific Islands, where print editions of newspapers are still widely read. Her team produces a minimum of four pages daily in our print edition, a 16-page Saturday Business Liftout, and daily digital reportage on various platforms. In addition, they carry Xinhua news agency for international news and have connections with China Daily.
+[The Fiji Sun](https://fijisun.com.fj/) is the biggest daily newspaper in the Pacific Islands, where print editions of newspapers are still widely read. Her team produces a minimum of four pages daily in our print edition, a 16-page Saturday Business Liftout, and daily digital reportage on various platforms. In addition, they carry Xinhua news agency for international news and have connections with China Daily.
 
 ### Business
 
@@ -38,7 +38,7 @@ During President Xi Jinping’s visit to Fiji in November 2014, he had announced
 
 <p align="center"><a href="https://image.freepik.com/free-photo/beautiful-national-state-flags-fiji-china-together-sky-3d-artwork-concept_337817-585.jpg"><img src="https://image.freepik.com/free-photo/beautiful-national-state-flags-fiji-china-together-sky-3d-artwork-concept_337817-585.jpg" type="image"></a></p>
 
-She participated in the culture education Tour in China as one of the two representatives from the China Cultural Center. After visiting, she thought that learning the Chinese language and paying attention to China’s economy and culture is needed.
+She participated in the culture education Tour in China as one of the two representatives from the China Cultural Center. After visiting, she thought that learning Chinese language and paying attention to China’s economy and culture is needed.
 
 ### Why Tsinghua 
 
