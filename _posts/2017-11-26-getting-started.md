@@ -16,7 +16,7 @@ Through this interview, I can get much closer to her, and I hope the discussion 
 
 ## Global, Business, Journalism 
 
-Global, Business, Journalism stands out Maria’s identity. After her undergraduates, she started her work as a journalist. After few years, she rose to manage the editor Business and achieved multiple successes as well. 
+Global, Business, Journalism stands out Maria’s identity. After her undergraduates, she started her work as a journalist. Few years later, she promoted to manage the editor Business and achieved multiple successes as well. 
 
 ### Global 
 
@@ -24,7 +24,7 @@ The Fiji Sun is the biggest daily newspaper in the Pacific Islands, where print 
 
 ### Business
 
-As a business journalist, she covers business from the stock market, commodity prices, aviation, agriculture, tourism, and overall local and international news impacting Fiji. She is currently responsible for developing and running the most extensive business and finance reporting in the Pacific Islands. 
+As a business journalist, she covers business news including the stock market, commodity prices, aviation, agriculture, tourism, and overall local and international news impacting Fiji. She is currently responsible for running the most extensive business and finance reporting in the Pacific Islands. 
 
 ### Journalism 
 
@@ -44,11 +44,11 @@ She participated in the culture education Tour in China as one of the two repres
 
 <p align="center"><a href="https://www.tsinghua.edu.cn/en/image/xinjiatihuanjjide02.jpg"><img src="https://www.tsinghua.edu.cn/en/image/xinjiatihuanjjide02.jpg" type="image"></a></p>
 
-Her main reason for obtaining a master’s degree in Global Business Journalism is its unique teaching technique with a combination of journalism and business with global students.
+Her main reason for obtaining a master’s degree in Global Business Journalism is its <b>unique teaching technique with a combination of journalism and business with global students.</b>
 
 ### Excellence 
 
-When asked to define GBJ as one word, without hesitation, she said “excellence.” Obtaining a Master of Arts in Global Journalism will enable her long-term goals to come true, such as building the business team and widening the business coverage in Fiji and the Pacific region. Furthermore, she would also like to continue to train journalists to broaden their knowledge and inform the public, bringing about the benefit of both Fiji and the Pacific Islands.
+When asked to define GBJ as one word, without hesitation, she said <b>“excellence.” </b> Obtaining a Master of Arts in Global Journalism will enable her long-term goals to come true, such as building the business team and widening the business coverage in Fiji and the Pacific region. Furthermore, she would also like to continue to train journalists to broaden their knowledge and inform the public, bringing about the benefit of both Fiji and the Pacific Islands.
 
 
 <Blockquote>
