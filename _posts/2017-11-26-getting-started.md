@@ -5,7 +5,7 @@ featured-img: shane-rounce-205187
 ---
 # Bula!
 
-<b>Bula</b> is the most common word in the Fijian language. It is the same as “Hello” in English.
+<h1 style="text-align:center"><b>Bula</b> is the most common word in the Fijian language. It is the same as “Hello” in English.</h1>
 <p align="center" width="200" height="200"><a href="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg"><img src="http://www.southpacificweddings.com.au/wp-content/uploads/2018/12/Bula-Fiji2.jpg" type="image"></a></p>
 
 Today, I am going to introduce one of my colleagues from Fiji islands. Maria, the 2021 cohort of GBJ, is from Fiji Islands. She is the business editor working at [Fiji Sun](https://fijisun.com.fj/) based in Suva, Fiji. 
