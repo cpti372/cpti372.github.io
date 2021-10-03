@@ -7,6 +7,6 @@ featured-img: emile-perron-190221
 ---
 
 <a href="https://youtu.be/wDgRwioczZk" target="_blank"><img src="https://ibb.co/BrGz9Qs"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="Click here" width="240" height="180" border="10" /></a>
 
 
