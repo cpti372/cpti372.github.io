@@ -51,9 +51,10 @@ Her main reason for obtaining a master’s degree in Global Business Journalism 
 When asked to define GBJ as one word, without hesitation, she said <b>“excellence.” </b> Obtaining a Master of Arts in Global Journalism will enable her long-term goals to come true, such as building the business team and widening the business coverage in Fiji and the Pacific region. Furthermore, she would also like to continue to train journalists to broaden their knowledge and inform the public, bringing about the benefit of both Fiji and the Pacific Islands.
 
 
+
 <Blockquote>
-" I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance." 
- - Maira Vula (2021 cohort of GBJ)
+<text align="center"><b>" I would like to think global and also demonstrate integrity, accuracy as well as learn to create top quality coverage of business and finance." 
+ - Maira Vula (2021 cohort of GBJ)</b></text>
 </Blockquote>
 
 
