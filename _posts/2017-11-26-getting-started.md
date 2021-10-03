@@ -16,11 +16,11 @@ Through this interview, I can get much closer to her, and I hope the discussion 
 
 ## Global, Business, Journalism 
 
-<b>Global, Business, Journalism</b> stands out Maria’s identity. After her undergraduates, she started her work as a journalist. Few years later, she promoted to manage the editor Business and achieved multiple successes as well. 
+<b>Global, Business, Journalism</b> stands out Maria’s identity. After her undergraduates, she started her work as a journalist. A few years later, she was promoted to manage the editor of Business where she achieved multiple successes.
 
 ### Global 
 
-[The Fiji Sun](https://fijisun.com.fj/) is the biggest daily newspaper in the Pacific Islands, where print editions of newspapers are still widely read. Her team produces a minimum of four pages daily in our print edition, a 16-page Saturday Business Liftout, and daily digital reportage on various platforms. In addition, they carry Xinhua news agency for international news and have connections with China Daily.
+[The Fiji Sun](https://fijisun.com.fj/) is the biggest daily newspaper in the Pacific Islands, where print editions of newspapers are still widely read. Her team produces a minimum of four pages daily in our print edition, a 16-page Saturday Business Liftout, and daily digital reportage on various platforms. In addition, they carry Xinhua news agency for international news as well as have connections with China Daily.
 
 ### Business
 
@@ -28,7 +28,8 @@ As a business journalist, she covers business news including the stock market, c
 
 ### Journalism 
 
-In mid-2014, she had a stint as Acting Editor North making an impact where it would be the beginning of her leadership role. Upon return to the Suva, headquarters saw her taking charge of the engine room – the subeditor’s desk/department. She also conducted a particular project in 2017 where the Fiji Sun produced the biggest weekend newspaper boasting up to more than 200 pages. Then she moved to head the business department, where she manages a dedicated team of four seven days a week (even on her days off).
+In mid-2014, she had a stint as Acting Editor North making an impact where it would be the beginning of her leadership role. Upon return to the Suva, headquarters made her taking charge of the engine room – the subeditor’s desk/department. She also conducted a particular project in 2017 where the Fiji Sun produced the biggest weekend newspaper boasting up to more than 200 pages. Then she moved to head the business department, where she manages a dedicated team 24/7. 
+
 
 ## Tsinghua, new start 
 
@@ -38,7 +39,7 @@ During President Xi Jinping’s visit to Fiji in November 2014, he had announced
 
 <p align="center"><a href="https://image.freepik.com/free-photo/beautiful-national-state-flags-fiji-china-together-sky-3d-artwork-concept_337817-585.jpg"><img src="https://image.freepik.com/free-photo/beautiful-national-state-flags-fiji-china-together-sky-3d-artwork-concept_337817-585.jpg" type="image"></a></p>
 
-She participated in the culture education Tour in China as one of the two representatives from the China Cultural Center. After visiting, she thought that learning Chinese language and paying attention to China’s economy and culture is needed.
+She participated in the culture education Tour in China as one of the two representatives from the China Cultural Center. After visiting, she thought that learning the Chinese language and paying attention to China’s economy and culture is needed.
 
 ### Why Tsinghua 
 
@@ -49,7 +50,6 @@ Her main reason for obtaining a master’s degree in Global Business Journalism 
 ### Excellence 
 
 When asked to define GBJ as one word, without hesitation, she said <b>“excellence.” </b> Obtaining a Master of Arts in Global Journalism will enable her long-term goals to come true, such as building the business team and widening the business coverage in Fiji and the Pacific region. Furthermore, she would also like to continue to train journalists to broaden their knowledge and inform the public, bringing about the benefit of both Fiji and the Pacific Islands.
-
 
 
 <Blockquote>
