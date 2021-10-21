@@ -6,7 +6,7 @@ featured-img: emile-perron-190221
 
 ---
 
-<p align="center"><h1>Five things that can make you better off using internet</h1></p>
+<p style="text-align:center;"><h1>Five things that can make you better off using internet</h1></p>
 <Blockquote>
 <text align="center"><b>Coline usually wakes up at 7:30 a.m. and checks her WeChat message. Then, after she delivers her breakfast through the delivery application, she watches her favorite YouTube channels. It's her daily morning routine. 
  
@@ -38,7 +38,7 @@ When she goes to school, she usually uses a bike-sharing application. Because of
 <br>
 <p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet.</p>
 <br>
-<p align="center"><h1>Five things you can’t do without the internet</h1></p>
+<p style="text-align:center;"><h1>Five things you can’t do without the internet</h1></p>
 <br>
 <p align="center"><a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a></p>
 <br>
