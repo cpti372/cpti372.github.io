@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Five things that can make you better off using internet vs Five things you can’t do without the internet 
+title: Impact of Internet on human life 
 summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
 featured-img: emile-perron-190221
 
 ---
 
+<p align="center"><h1>Five things that can make you better off using internet vs Five things you can’t do without the internet</h1></p>
 <Blockquote>
 <text align="center"><b>Coline usually wakes up at 7:30 a.m. and checks her WeChat message. Then, after she delivers her breakfast through the delivery application, she watches her favorite YouTube channels. It's her daily morning routine. 
  
