@@ -22,10 +22,10 @@ featured-img: emile-perron-190221
 <p>MOOC, Coursera, Udemy. The high quality of Internet education website always welcomes you. Without going there, you can enroll high regarded university course at your home. It's time for envisioning your dream, just staying at home.</p>
 
 <h2>2.	File and Data transfer</h2>
-<p>My life has changed after using Google Drive. Before then, collecting USBs was one of my hobbies, but I always forgot to put them on my desk. Google Drive serves unlimited storage for users and enables us to share with our friends. So, we don't need to take so much time to send photos to friends. Just click the share button, write down her e-mail. It's all</p>
+<p>My life has changed after using Google Drive. Before then, collecting USBs was one of my hobbies, but I always forgot to put them on my desk. Google Drive serves unlimited storage for users and enables us to share with our friends. So, we don't need to take so much time to send photos to friends. Just click the share button, write down her e-mail. It's all.</p>
 
 <h2>3.	Networking</h2>
-<p>If you want to go abroad or if you're supposed to start your new career at a new place? Internet will help you realize your goal. Helpful tips and interviews expect you to meet on the webpage. LinkedIn, Instagram, Twitter, and Facebook. Like-minded, valuable people are always waiting for you. Be friends with them, expand your network</p>
+<p>If you want to go abroad or if you're supposed to start your new career at a new place? Internet will help you realize your goal. Helpful tips and interviews expect you to meet on the webpage. LinkedIn, Instagram, Twitter, and Facebook. Like-minded, valuable people are always waiting for you. Be friends with them, expand your network.</p>
 
 <h2>4.	Entertainment</h2>
 <p>Did you already see 'Squid Game' or 'Parasite'? If not, you should sign up for Netflix and start your subscription. The Internet provides you with various genres of content. Not only media content but also the game can relieve your stress. All the entertainment on the website brings humor and vitality to your life. </p>
