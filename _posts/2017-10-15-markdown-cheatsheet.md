@@ -14,8 +14,7 @@ featured-img: emile-perron-190221
 >>> She accesses the zoom application via her laptop. 8:00 p.m., all her schedule ends! She posts some photos on her SNS and chats with her friends. 11:00 p.m., listening to podcast, she goes to bed. 
 
 
-
-<p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. <b>Impossible. No Internet, No life.</b>Here are the five things that can make you better off using the Internet.</p>
+<p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. <b>Impossible. No Internet, No life.</b>Here are the <b>five things that can make you better off using the Internet.</b></p>
 
 <p align="center"><a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0" align="center"></a></p>
 <br>
@@ -34,7 +33,7 @@ featured-img: emile-perron-190221
 <h2>5.	E-commerce</h2>
 <p>I go to Spain once a year to buy Zara clothes. But due to COVID-19, I have not been there for more than two years. But no worries. We have the Internet to connect with the store. Just visit the website and click. We can buy anything on the Internet</p>
 
-<p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet.</p>
+<p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a <b>necessity like water.</b> From now on, assuming the situation, live without the Internet. There are also <b>five things we cannot do without the Internet.</b></p>
 <br>
 <h1 style="text-align:center;">Five things you can’t do without the internet</h1>
 <hr style="border: solid 5px black;">
