@@ -15,7 +15,7 @@ featured-img: emile-perron-190221
 
 
 
-<p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. Impossible. No Internet, No life. Here are the five things that can make you better off using the Internet.</p>
+<p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. <b>Impossible. No Internet, No life.</b>Here are the five things that can make you better off using the Internet.</p>
 
 <p align="center"><a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0" align="center"></a></p>
 <br>
