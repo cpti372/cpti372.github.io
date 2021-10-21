@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 things we can do without an Internet
+title: Why is digital literacy important in these times?
 featured-img: sleek
 ---
 Content will be uploaded 
