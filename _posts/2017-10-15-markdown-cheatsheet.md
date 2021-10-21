@@ -37,7 +37,7 @@ featured-img: emile-perron-190221
 <p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet.</p>
 <br>
 <h1 style="text-align:center;">Five things you can’t do without the internet</h1>
-<br>
+<hr style="border: solid 5px black;">
 <p align="center"><a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a></p>
 <h2>1.	Take a lesson</h2>
 <p>Since 2020, 98% of universities have moved classes online. eLearning becomes an obligation, not a selection, nowadays. If there were no internet, we might meet together and even enter this school.</p>
