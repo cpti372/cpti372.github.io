@@ -21,12 +21,6 @@ social:
 
 disqus:
   shortname: disqus_XoxI2yKCpS # to enable comments replace with your_disqus_shortname
-  
-navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
-  - {name: 'Interview', link: '/interview'}
 
 # Build settings
 markdown: kramdown
