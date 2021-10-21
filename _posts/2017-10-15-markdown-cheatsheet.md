@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Impact of Internet on human life 
-summary: Five things that can make you better off using internet VS Five things you can’t do without the internet
 featured-img: emile-perron-190221
 
 ---
