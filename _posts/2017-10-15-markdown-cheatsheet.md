@@ -35,9 +35,23 @@ When she goes to school, she usually uses a bike-sharing application. Because of
 <h2>5.	E-commerce</h2>
 <p>I go to Spain once a year to buy Zara clothes. But due to COVID-19, I have not been there for more than two years. But no worries. We have the Internet to connect with the store. Just visit the website and click. We can buy anything on the Internet</p>
 
-Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet. 
+<p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet.</p>
 
 <a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a>
 
+<h2>1.	Take a lesson</h2>
+<p>Since 2020, 98% of universities have moved classes online. eLearning becomes an obligation, not a selection, nowadays. If there were no internet, we might meet together and even enter this school.</p>
+
+<h2>2.	Mobile payment</h2>
+<p>These days, I feel bringing a wallet is sometimes useless. Apple pay, WeChat Pay, Alipay lessen my burden to memorize if I got my purse or not. No need to go bank to withdraw cash; just show your screen and scan the code. It's all. But there's one thing to remember. You should turn on your cellular when using it. Therefore, it means no data, cannot buy anything.</p>
+
+<h2>3.	Communication</h2>
+<p>How often do you send text messages? Maybe 50 times per minute or more than I guess. We send important notices, make business appointments, and say hello to our grandparents via the Internet. If we are in a place without Internet access, it loses our connection to the world. In case, we might use pigeons to carry messages like the Romans.</p>
+
+<h2>4.	Travel</h2>
+<p>Traveling the world will be problematic. How can we book the hotel, tickets and search for fancy places to go? Not only going abroad but also domestic flights can't make it. Without Internet equals no GPS. No one can find the ways; they lose their ways at least 500 meters.</p>
+
+<h2>5.	News </h2>
+<p>How much information do we spend a day? According to research, we process as much as 74GB of data a day. Among them, more than fifty percent take the news. News offers opportunities to do creative thinking and enhance our knowledge of other countries.</p>
 
 
