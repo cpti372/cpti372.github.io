@@ -34,11 +34,11 @@ When she goes to school, she usually uses a bike-sharing application. Because of
 
 <h2>5.	E-commerce</h2>
 <p>I go to Spain once a year to buy Zara clothes. But due to COVID-19, I have not been there for more than two years. But no worries. We have the Internet to connect with the store. Just visit the website and click. We can buy anything on the Internet</p>
-
+<br>
 <p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet.</p>
-
+<br>
 <p align="center"><a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a></p>
-
+<br>
 <h2>1.	Take a lesson</h2>
 <p>Since 2020, 98% of universities have moved classes online. eLearning becomes an obligation, not a selection, nowadays. If there were no internet, we might meet together and even enter this school.</p>
 
