@@ -38,7 +38,7 @@ When she goes to school, she usually uses a bike-sharing application. Because of
 <br>
 <p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet.</p>
 <br>
-<p style="text-align:center;"><h1>Five things you can’t do without the internet</h1></p>
+<h1 style="text-align:center;">Five things you can’t do without the internet</h1>
 <br>
 <p align="center"><a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a></p>
 <br>
