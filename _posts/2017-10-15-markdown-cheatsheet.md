@@ -11,11 +11,7 @@ featured-img: emile-perron-190221
 >	> This is a second blockqute.
 >	>	> This is a third blockqute.
 
->> Coline usually wakes up at 7:30 a.m. and checks her WeChat message. Then, after she delivers her breakfast through the delivery application, she watches her favorite YouTube channels. It's her daily morning routine. 
- 
-When she goes to school, she usually uses a bike-sharing application. Because of COVID-19, she must scan the QR code using a cellular phone whenever entering the school. In this semester, she took 15 credits, but some courses shifted to online. She accesses the zoom application via her laptop. 
- 
- 8:00 p.m., all her schedule ends! She posts some photos on her SNS and chats with her friends. 11:00 p.m., listening to podcast, she goes to bed. 
+>>> Coline usually wakes up at 7:30 a.m. and checks her WeChat message. Then, after she delivers her breakfast through the delivery application, she watches her favorite YouTube channels. It's her daily morning routine. When she goes to school, she usually uses a bike-sharing application. Because of COVID-19, she must scan the QR code using a cellular phone whenever entering the school. In this semester, she took 15 credits, but some courses shifted to online. She accesses the zoom application via her laptop. 8:00 p.m., all her schedule ends! She posts some photos on her SNS and chats with her friends. 11:00 p.m., listening to podcast, she goes to bed. 
 
 
 
