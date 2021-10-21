@@ -31,7 +31,7 @@ featured-img: emile-perron-190221
 <p>Did you already see 'Squid Game' or 'Parasite'? If not, you should sign up for Netflix and start your subscription. The Internet provides you with various genres of content. Not only media content but also the game can relieve your stress. All the entertainment on the website brings humor and vitality to your life. </p>
 
 <h2>5.	E-commerce</h2>
-<p>I go to Spain once a year to buy Zara clothes. But due to COVID-19, I have not been there for more than two years. But no worries. We have the Internet to connect with the store. Just visit the website and click. We can buy anything on the Internet</p>
+<p>I go to Spain once a year to buy Zara clothes. But due to COVID-19, I have not been there for more than two years. But no worries. We have the Internet to connect with the store. Just visit the website and click. We can buy anything on the Internet.</p>
 
 <p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a <b>necessity like water.</b> From now on, assuming the situation, live without the Internet. There are also <b>five things we cannot do without the Internet.</b></p>
 <br>
