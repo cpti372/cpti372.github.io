@@ -18,7 +18,7 @@ When she goes to school, she usually uses a bike-sharing application. Because of
 
 <p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. Impossible. No Internet, No life. Here are the five things that can make you better off using the Internet.</p>
 
-<a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0" align="center"></a>
+<p align="center"><a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0" align="center"></a></p>
 <br>
 <h2>1.	Self – improvement</h2>
 <p>MOOC, Coursera, Udemy. The high quality of Internet education website always welcomes you. Without going there, you can enroll high regarded university course at your home. It's time for envisioning your dream, just staying at home.</p>
@@ -37,7 +37,7 @@ When she goes to school, she usually uses a bike-sharing application. Because of
 
 <p>Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet.</p>
 
-<a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a>
+<p align="center"><a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a></p>
 
 <h2>1.	Take a lesson</h2>
 <p>Since 2020, 98% of universities have moved classes online. eLearning becomes an obligation, not a selection, nowadays. If there were no internet, we might meet together and even enter this school.</p>
