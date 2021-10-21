@@ -18,4 +18,26 @@ When she goes to school, she usually uses a bike-sharing application. Because of
 
 <p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. Impossible. No Internet, No life. Here are the five things that can make you better off using the Internet.</p>
 
-<a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0"></a>
+<center><a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0"></a></center>
+
+<h2>1.	Self – improvement</h2>
+<p>MOOC, Coursera, Udemy. The high quality of Internet education website always welcomes you. Without going there, you can enroll high regarded university course at your home. It's time for envisioning your dream, just staying at home.</p>
+
+<h2>2.	File and Data transfer</h2>
+<p>My life has changed after using Google Drive. Before then, collecting USBs was one of my hobbies, but I always forgot to put them on my desk. Google Drive serves unlimited storage for users and enables us to share with our friends. So, we don't need to take so much time to send photos to friends. Just click the share button, write down her e-mail. It's all</p>
+
+<h2>3.	Networking</h2>
+<p>If you want to go abroad or if you're supposed to start your new career at a new place? Internet will help you realize your goal. Helpful tips and interviews expect you to meet on the webpage. LinkedIn, Instagram, Twitter, and Facebook. Like-minded, valuable people are always waiting for you. Be friends with them, expand your network</p>
+
+<h2>4.	Entertainment</h2>
+<p>Did you already see 'Squid Game' or 'Parasite'? If not, you should sign up for Netflix and start your subscription. The Internet provides you with various genres of content. Not only media content but also the game can relieve your stress. All the entertainment on the website brings humor and vitality to your life. </p>
+
+<h2>5.	E-commerce</h2>
+<p>I go to Spain once a year to buy Zara clothes. But due to COVID-19, I have not been there for more than two years. But no worries. We have the Internet to connect with the store. Just visit the website and click. We can buy anything on the Internet</p>
+
+Could you realize how the Internet plays a significant part in life? I think the Internet has already become a necessity like water. From now on, assuming the situation, live without the Internet. There are also five things we cannot do without the Internet. 
+
+<a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a>
+
+
+
