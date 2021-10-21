@@ -6,7 +6,7 @@ featured-img: emile-perron-190221
 
 ---
 
-<p style="text-align:center;"><h1>Five things that can make you better off using internet</h1></p>
+<p style="text-align:center;">Five things that can make you better off using internet</p>
 <Blockquote>
 <text align="center"><b>Coline usually wakes up at 7:30 a.m. and checks her WeChat message. Then, after she delivers her breakfast through the delivery application, she watches her favorite YouTube channels. It's her daily morning routine. 
  
