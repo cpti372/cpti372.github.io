@@ -13,9 +13,9 @@ featured-img: emile-perron-190221
 
 >>> She accesses the zoom application via her laptop. 8:00 p.m., all her schedule ends! She posts some photos on her SNS and chats with her friends. 11:00 p.m., listening to podcast, she goes to bed. 
 
-<p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. <b>Impossible. No Internet, No life.</b>Here are the <b>five things that can make you better off using the Internet.</b></p>
+<p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. <b>Impossible. No Internet, No life.</b> Here are the <b>five things that can make you better off using the Internet.</b></p>
 
-<p align="center"><a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0" height="500px"></a></p>
+<p align="center"><a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0" height="598"></a></p>
 <br>
 
 <h2>1.	Self – improvement</h2>
@@ -37,7 +37,7 @@ featured-img: emile-perron-190221
 <br>
 <h1 style="text-align:center;">Five things you can’t do without the internet</h1>
 <hr style="border: solid 5px black;">
-<p align="center"><a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0"></a></p>
+<p align="center"><a href="https://ibb.co/Lz14wyY"><img src="https://i.ibb.co/hRVp5NL/2.png" alt="2" border="0" height="598"></a></p>
 <h2>1.	Take a lesson</h2>
 <p>Since 2020, 98% of universities have moved classes online. eLearning becomes an obligation, not a selection, nowadays. If there were no internet, we might meet together and even enter this school.</p>
 
