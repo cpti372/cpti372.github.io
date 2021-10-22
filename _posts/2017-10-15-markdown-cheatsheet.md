@@ -13,12 +13,12 @@ featured-img: emile-perron-190221
 
 >>> She accesses the zoom application via her laptop. 8:00 p.m., all her schedule ends! She posts some photos on her SNS and chats with her friends. 11:00 p.m., listening to podcast, she goes to bed. 
 
-
 <p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. <b>Impossible. No Internet, No life.</b>Here are the <b>five things that can make you better off using the Internet.</b></p>
 
 <p align="center"><a href="https://ibb.co/ZWfYkZH"><img src="https://i.ibb.co/NZFmH41/image.png" alt="image" border="0" align="center"></a></p>
+<p align="center"><a href="https://postimg.cc/XZkq5xsj"><img src="https://i.postimg.cc/43r9rSt9/image.png" alt="image" border="0" align="center"></a></p>
 <br>
-[![image.png](https://i.postimg.cc/43r9rSt9/image.png)](https://postimg.cc/XZkq5xsj)
+
 <h2>1.	Self – improvement</h2>
 <p>MOOC, Coursera, Udemy. The high quality of Internet education website always welcomes you. Without going there, you can enroll high regarded university course at your home. It's time for envisioning your dream, just staying at home.</p>
 
