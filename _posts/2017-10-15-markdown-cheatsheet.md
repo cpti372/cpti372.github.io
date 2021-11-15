@@ -10,8 +10,6 @@ featured-img: emile-perron-190221
 
 >>> On a normal day, Coline wakes up at around 7:30am and begins her day by checking messages through WeChat. Shortly after, she will browse through her delivery application and order breakfast for herself. Whilst eating breakfast, Coline watches Youtube videos to keep herself entertained. To commute to school, Coline usually uses a bike and she does this through a bike sharing application, also on her mobile phone. Due to the unfortunate situation of the COVID-19, she must scan a QR code on her phone before entering school to keep everyone safe. Again, because of the pandemic, many of Coline’s classes have been changed to online and so she has to access Zoom in order to take these classes. Her lessons are usually at 8pm in the evening where she takes the classes on her laptop. After these lessons end, her schedule also comes to a close and she gets ready for bed. Before this, Coline first posts some pictures to SNS and chats with her friends. At about 11pm she listens to a podcast before going to sleep. 
 
->>> She accesses the zoom application via her laptop. 8:00 p.m., all her schedule ends! She posts some photos on her SNS and chats with her friends. 11:00 p.m., listening to podcast, she goes to bed. 
-
 <p>There's a whole lot of stuff available online, just like Coline's daily life. From taking a class to delivering her dish, we spend most of our time on the Internet. Do you imagine your life without the Internet? As for me, I cannot. <b>Impossible. No Internet, No life.</b> Here are the <b>five things that can make you better off using the Internet.</b></p>
 
 <p align="center"><a href='https://ifh.cc/v-1U1Hyh' target='_blank'><img src='https://ifh.cc/g/1U1Hyh.png' border='0'></a></p>
